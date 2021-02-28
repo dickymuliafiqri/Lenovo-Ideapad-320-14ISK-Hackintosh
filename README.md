@@ -1,8 +1,10 @@
 # Lenovo-Ideapad-320-14ISK-Hackintosh
 
-<img width=25% weigth=25% src="/MacOS%20System%20Info/Mojave.png" />
-<img width=25% weigth=25% src="/MacOS%20System%20Info/Catalina.png" />
-<img width=25% weigth=25% src="/MacOS%20System%20Info/Big%20Sur.png" />
+<div>
+  <img width=30% weigth=30% src="/MacOS%20System%20Info/Mojave.png" />
+  <img width=30% weigth=30% src="/MacOS%20System%20Info/Catalina.png" />
+  <img width=30% weigth=30% src="/MacOS%20System%20Info/Big%20Sur.png" />
+</div>
 
 ## Not Work
 - Wifi (RTL8821AE)
